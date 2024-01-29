@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7fa87c9a-4962-400a-8248-6e65404a1f5e" name="Changes" comment="multi handler update" />
+    <list default="true" id="7fa87c9a-4962-400a-8248-6e65404a1f5e" name="Changes" comment="api jar update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,12 +39,13 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/hutch/Desktop/IBoosterAddons/EcoQuestsAddon/src/main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hutch/Desktop/IBoosterAddons/EcoQuestsAddon/src/main/libs&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;MTConfigurable&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hutch\Desktop\IBoosterAddons\EcoQuestsAddon\src\main\libs" />
       <recent name="C:\Users\hutch\Desktop\IBoosterAddons\EcoQuestsAddon\src\main" />
     </key>
   </component>
@@ -103,12 +106,21 @@
       <option name="project" value="LOCAL" />
       <updated>1705821196673</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="api jar update">
+      <option name="closed" value="true" />
+      <created>1706400441279</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706400441279</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="multi handler update" />
-    <option name="LAST_COMMIT_MESSAGE" value="multi handler update" />
+    <MESSAGE value="api jar update" />
+    <option name="LAST_COMMIT_MESSAGE" value="api jar update" />
   </component>
 </project>
